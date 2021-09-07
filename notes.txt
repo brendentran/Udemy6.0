@@ -1,0 +1,14 @@
+Functions:
+	We've used a quite a few functions so far.
+	We've also talked briefly about arugments and parameters. We saw one 
+	function we've used a lot, is the print function.
+	We'll also learn about return values from functions
+	It's much easier to debug small pieces of code
+
+Parameters:
+	Parameters are like place holders for the real values that you'll pass to 
+	your function. They're just variations
+
+Palindrome Function Challenge:
+    Fix our is_palindrome function so that it ignores the case of the letters, when checking if the two strings are equal.
+    answer is .casefold() which changes the input to all lowercase or all uppercase
